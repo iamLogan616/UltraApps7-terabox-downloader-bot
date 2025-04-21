@@ -1,7 +1,7 @@
-API_ID = 9111115  # api id
-API_HASH = "2a5342b0ef40f0a19d69852e076ff34b"  # api hash
+API_ID = 15529802  # api id
+API_HASH = "92bcb6aa798a6f1feadbc917fccb54d3"  # api hash
 
-BOT_TOKEN = "5970787431:AAHDlpbbnBhGyyKIaKdFWOpmJAYc6kte18M"  # bot token
+BOT_TOKEN = "7751917010:AAF25PK26tIFrveqMBYbi4nWrZeDN_tlbJU"  # bot token
 
 
 # REDIS
@@ -15,9 +15,9 @@ COOKIE = "ndus=Yz1EnixteHuiv0z8wUQw_EhAs-DGVSLRCWC1z57o;csrfToken=gWNw3HdEIQawTD
 ADMINS = [1865273492]
 
 
-BOT_USERNAME = "autogiveaway_bot"
+BOT_USERNAME = "FileStoreXeon2Bot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
-FORCE_LINK = "@NF_IRONICPROOFS"
+FORCE_LINK = "@XEONFLIX"
 
 PUBLIC_EARN_API = "8700018bffc724d4b39f7be1d60d680fbc2ab718"
